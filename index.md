@@ -99,4 +99,6 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 
 For privacy questions or concerns, contact:
 
-crimvault.dev@gmail.com
+
+servepath.dev@gmail.com
+
